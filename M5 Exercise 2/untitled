@@ -1,0 +1,10 @@
+
+
+arr=[]
+for i range(50):
+	add.append('0')
+
+print(arr[1])
+print(arr[10])
+print(arr[50])
+print(arr[0])
